@@ -1,6 +1,6 @@
 {
 	"name": "rollup-plugin-watch-external",
-	"version": "1.0.0",
+	"version": "1.0.1",
 	"description": "Rollup plugin to add additional files to the rollup watch files list.",
 	"main": "dist/index.js",
 	"repository": "https://github.com/arpitchakladar/rollup-plugin-watch-external",

@@ -43,7 +43,7 @@ An array of string glob patterns for files to watch.
 
 ## Original Author
 
-[Arpit Chakladar](https://github.com/arpitchakladar)
+[Arpit Chakladar](https://github.com/anaialar)
 
 ## License
 
